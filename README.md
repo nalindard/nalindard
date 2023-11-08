@@ -1,5 +1,10 @@
 # NOT D3FIN3D YET,
 
+```javascript
+console.log(world.me)
+// undefined
+```
+
 <details >
 <summary>Neon Thoughts</summary>
 
