@@ -2,6 +2,8 @@
 
 
 
+Dreaming of a distant future in which technology is at the summit but humans rarely use it... 🌱🍃💚
+
 <!--
 **nalindard/nalindard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
