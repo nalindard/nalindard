@@ -4,6 +4,9 @@
 
 Dreaming of a distant future in which technology is at the summit but humans rarely use it... 🌱🍃💚
 
+![nalindard's Stats](https://github-readme-stats.vercel.app/api?username=nalindard&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
 <!--
 **nalindard/nalindard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
