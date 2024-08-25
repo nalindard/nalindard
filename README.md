@@ -2,7 +2,7 @@
 
 Dreaming of a distant future in which technology is at the summit but humans rarely use it... 🌱🍃💚
 
-<hr/>
+## <a href="https://nalindard.github.io/" target="_blank">Github Pages Site -></a>
 
 <!--  <details>
   <summary><strong>Tech Stack</strong></summary>
