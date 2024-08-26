@@ -22,7 +22,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
   <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <!-- </div> -->
-<span style="width:12px;">---</span>
+<span style="width:12px;">-</span>
 <!-- <div style="display: flex;"> -->
 <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
