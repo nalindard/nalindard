@@ -21,22 +21,23 @@ Dreaming of a distant future in which technology is at the summit but humans rar
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
@@ -63,7 +64,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
       <h3 align="left"><strong>Github Stats</strong></h3>
       <p align="left">
         <a href="https://github.com/nalindard">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nalindard&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,000000&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nalindard&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0d1117,0d1117&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -71,7 +72,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
       <h3 align="left"><strong>Streak Stats</strong></h3>
       <p align="left">
         <a href="https://github.com/nalindard">
-          <img align="center" src="https://streak-stats.demolab.com?user=nalindard&theme=nightowl&background=0,000000,000000&fire=00fbff&ring=00fbff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=nalindard&theme=dark&background=0,0d1117,0d1117&fire=00fbff&ring=00fbff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -81,7 +82,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
       <h3 align="left"><strong>Latest Project</strong></h3>
       <p align="left">
         <a href="https://github.com/nalindard/Undefined-YT">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nalindard&repo=Undefined-YT&theme=dark&show_owner=true&bg_color=0,000000,000000&title_color=ffffff&text_color=ffffff" alt="Undefined-YT" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nalindard&repo=Undefined-YT&theme=dark&show_owner=true&bg_color=0,0d1117,0d1117&title_color=ffffff&text_color=ffffff" alt="Undefined-YT" />
         </a>
       </p>
     </td>
@@ -89,7 +90,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
       <h3 align="left"><strong>Top Contributions</strong></h3>
       <p align="left">
         <a href="https://github.com/nalindard">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nalindard&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=true&bg_color=0,000000,000000&title_color=ffffff&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nalindard&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=true&bg_color=0,0d1117,0d1117&title_color=ffffff&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
