@@ -77,6 +77,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
       </p>
     </td>
   </tr>
+    <!--
   <tr>
     <td width="50%">
       <h3 align="left"><strong>Latest Project</strong></h3>
@@ -95,6 +96,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
       </p>
     </td>
   </tr>
+    -->
 </table>
 <br />
 
