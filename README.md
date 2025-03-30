@@ -47,7 +47,7 @@ Dreaming of a distant future in which technology is at the summit but humans rar
 <p align="left">
   <a href="https://github.com/nalindard">
     <picture>
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=nalindard&no-bg=false&row=1&column=5&margin-w=27&margin-h=27&title=MultiLanguage,Commits,Repositories,Experience,PullRequest&theme=onestar">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=nalindard&no-bg=false&row=1&column=5&margin-w=27&margin-h=27&title=MultiLanguage,Commits,Repositories,Experience,PullRequest&theme=onestar&count_private=true">
     </picture>
   </a>
 </p>
