@@ -7,7 +7,7 @@ Crafting imagination into digital life, fuelled by love, one line at at time !
 
 Dreaming of a distant future in which technology is at the summit but humans rarely use it... 🌱🍃💚
 
-## <a href="https://nalindard.github.io/" target="_blank">CLICK HERE</a>
+## <a href="https://nalinda.dev/" target="_blank">My Digital Space</a>
 
 <!--Profile Count Badge-->
 <p align="left">
