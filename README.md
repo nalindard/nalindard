@@ -1,4 +1,8 @@
-# TECHNOLOGY DOESN'T MATTER
+# Say hi...!
+
+Crafting imagination into digital life, fuelled by love, one line at at time !
+
+### TECHNOLOGY DOESN'T MATTER
 
 
 Dreaming of a distant future in which technology is at the summit but humans rarely use it... 🌱🍃💚
