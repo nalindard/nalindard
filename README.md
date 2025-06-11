@@ -1,11 +1,10 @@
 # Say hi...!
 
-Crafting imagination into digital life, fuelled by love, one line at at time !
+Crafting imagination into digital life, fuelled by love, one line at at time,
 
-### TECHNOLOGY DOESN'T MATTER
+Shapes Sharp, Edgy && Futuristic frontiers,  
 
-
-Dreaming of a distant future in which technology is at the summit but humans rarely use it... 🌱🍃💚
+Dreaming of a distant future where tech peaks… yet remains quietly in the background. 🌱🍃💚
 
 ## <a href="https://nalinda.dev/" target="_blank">My Digital Space</a>
 
