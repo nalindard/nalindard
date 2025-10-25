@@ -1,5 +1,4 @@
-# Say hi...!
-
+<!--
 <pre>
   █████████                          █████       ███           ███
  ███░░░░░███                        ░░███       ░░░           ░███
@@ -12,6 +11,20 @@
                         ███ ░███                                  
                        ░░██████                                   
                         ░░░░░░                                                                
+</pre>
+-->
+<pre>
+                                                              
+                                  ,,          ,,              
+ .M"""bgd                       `7MM          db           OO 
+,MI    "Y                         MM                       88 
+`MMb.      ,6"Yb.`7M'   `MF'      MMpMMMb.  `7MM           || 
+  `YMMNq. 8)   MM  VA   ,V        MM    MM    MM           || 
+.     `MM  ,pm9MM   VA ,V         MM    MM    MM           `' 
+Mb     dM 8M   MM    VVV          MM    MM    MM  ,, ,, ,, ,, 
+P"Ybmmd"  `Moo9^Yo.  ,V         .JMML  JMML..JMML.db db db db 
+                    ,V                                        
+                 OOb"                                         
 </pre>
 
 Crafting imagination into digital life, fuelled by love, one line at at time,
