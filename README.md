@@ -185,6 +185,13 @@ Dreaming of a distant future where tech peaks… yet remains quietly in the back
 
 <!--  </details> -->
 
+<details>
+  <summary><b>Say hi...! ??</b></summary>
+  <p style="font-size:12px; color: #272727">I never coded that <code>"Hello World"</code> program, <br> <code>Say hi..!</code> was the first kiss of this lovely journey of programming, of course, with C🖤😌!</p>
+</details>
+
+
+
 
 
 <!--
