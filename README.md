@@ -27,13 +27,39 @@ P"Ybmmd"  `Moo9^Yo.  ,V         .JMML  JMML..JMML.db db db db
                  OOb"                                         
 </pre>
 
-Crafting imagination into digital life, fuelled by love, one line at at time,
+<br/>
+<br/>
 
-Shapes Sharp, Edgy && Futuristic frontiers,  
+I craft frontier solutions that speak performance and architectures that define rock-solid stability and scalability.
 
-Dreaming of a distant future where tech peaks… yet remains quietly in the background. 🌱🍃💚
+Currently architecting the full stack, I am aiming squarely at the silicon: systems engineering, interpreters, compilers, and cybersecurity.
 
-## <a href="https://nalinda.dev/" target="_blank">My Digital Space</a>
+##
+
+<br/>
+
+`arc@edge: cat ~/runtime/current.sys`
+#### // ACTIVE_DEPLOYMENT
+
+* Software Engineer @Dinetap Singapore
+* Domains: Full Stack Development (Web, Mobile, Backend)
+* Status: Full-Time Execution
+* Environment: Linux 
+
+<br/>
+
+`arc@edge: sudo ln -sf /dev/metal ~/future`
+#### // NEXT_EVOLUTION
+
+* Cybersecurity
+* Systems Engineering
+* Compiler && Interpreter Engineering
+
+##
+
+### <a href="https://nalinda.dev/" target="_blank">ACCESS THE DIGITAL SPACE]</a>
+
+<br/>
 
 <!--Profile Count Badge-->
 <p align="left">
