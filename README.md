@@ -57,7 +57,7 @@ Currently architecting the full stack, I am aiming squarely at the silicon: syst
 
 ##
 
-### <a href="https://nalinda.dev/" target="_blank">ACCESS THE DIGITAL SPACE]</a>
+### <a href="https://nalinda.dev/" target="_blank">ACCESS THE DIGITAL SPACE</a>
 
 <br/>
 
