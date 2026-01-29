@@ -66,11 +66,6 @@ Currently architecting the full stack, I am aiming squarely at the silicon: syst
   <img src="https://komarev.com/ghpvc/?username=nalindard&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nalindard" style="padding-right:20px;" />
 </p>
 
-##
-
-
-
-
 <!-- ![nalindard's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalindard&show_icons=true&theme=dark) -->
 
 
