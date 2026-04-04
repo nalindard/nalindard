@@ -62,3 +62,11 @@ P"Ybmmd"  `Moo9^Yo.  ,V         .JMML  JMML..JMML.db db db db
 | **Data Architecture**   | PostgreSQL, MongoDB, Supabase, MySQL                  |
 | **Frontend Ecosystem**  | React, Next.js, Vue.js, Nuxt.js, TailwindCSS, Flutter |
 | **Runtime**             | Node.js, Bun, .NET                                    |
+
+<br/>
+
+`edge@arc:~$ whoami && uptime`
+
+#### I LIKE THE TERMINAL, KINDA...
+
+<img width="3840" height="1080" alt="Screenshot from 2026-04-04 15-02-06" src="https://github.com/user-attachments/assets/469a74b3-ee47-4b97-9240-ad1b436924ef" />
