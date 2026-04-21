@@ -67,7 +67,7 @@ P"Ybmmd"  `Moo9^Yo.  ,V         .JMML  JMML..JMML.db db db db
 
 `edge@arc:~$ whoami && uptime`
 
-#### I LIKE THE TERMINAL, KINDA...
+#### I KINDA LIKE THE TERMINAL...
 
 <!-- <img width="3840" height="1080" alt="Screenshot from 2026-04-04 15-02-06" src="https://github.com/user-attachments/assets/469a74b3-ee47-4b97-9240-ad1b436924ef" /> -->
 <img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/0004fc34-0faa-4108-90b7-6e44776b201d" />
